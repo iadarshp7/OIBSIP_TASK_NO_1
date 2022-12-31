@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    color: aliceblue;
+}
+.container{
+    max-width: 80%;
+    align-items: center;
+    font-family: 'Andika', sans-serif;
+}
+.logo{
+    font-size: 2rem;
+}
+.section1{
+    height: 80vh;
+}
+.section2{
+    height: 30vh;
+    width:80%;
+    padding: 10vh;
+}
+.section3{
+    height: 60vh;
+    padding-top: 8vh;
+}
+
+.section3 h1{
+    font-size: 2rem;
+}
+footer{
+    padding:25px;
+    text-align: center;
+}
